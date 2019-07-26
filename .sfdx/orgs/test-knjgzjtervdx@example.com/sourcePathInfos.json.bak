@@ -1,0 +1,242 @@
+[
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931378,
+            "changeTime": 1563909931378,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931378,
+            "changeTime": 1563909931378,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931382,
+            "changeTime": 1563909931382,
+            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931379,
+            "changeTime": 1563909931379,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931379,
+            "changeTime": 1563909931379,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931379,
+            "changeTime": 1563909931379,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\contentassets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931379,
+            "changeTime": 1563909931379,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931380,
+            "changeTime": 1563909931380,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931381,
+            "changeTime": 1563909931381,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909939444,
+            "changeTime": 1563909939444,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931381,
+            "changeTime": 1563909931381,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931381,
+            "changeTime": 1563909931381,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931381,
+            "changeTime": 1563909931381,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931381,
+            "changeTime": 1563909931381,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\triggers",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563909931382,
+            "changeTime": 1563909931382,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\DeveloperEdition\\FirstAttempt",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\DeveloperEdition\\FirstAttempt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564156156435,
+            "changeTime": 1564156156435,
+            "contentHash": "b62cb493250256b1080bd2bd1b910b3271159831",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
